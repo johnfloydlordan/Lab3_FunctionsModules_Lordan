@@ -1,3 +1,5 @@
+# Activity 3: Functions and Modules
+
 # grades
 
 def compute_average(scores):
