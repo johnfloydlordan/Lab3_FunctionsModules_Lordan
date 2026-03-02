@@ -39,7 +39,3 @@ limit = CONTROL_NUM + len(FAVORITE_ARTIST)
 print("Stream Limit:", limit)
 
 media_engine.play_count_stream(limit)
-
-
-
-print(len(FAVORITE_ARTIST))
